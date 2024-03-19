@@ -1,0 +1,284 @@
+
+  /____________HOME______________*/
+
+*{font-family: Times New Roman;
+}
+
+body{background-color: black;}
+a{font-size: 50px;
+margin-left: 110px;
+}
+
+#home{margin-left: 40px;}
+
+  .link{margin-left:0px;background-color:#2cad7a92;
+    height:100px;
+    width: 150%;
+border: 20px solid white;
+border-radius: 50px;
+  }
+  
+  .hello{color: cyan;
+    font-size:150px;
+    position: absolute;top:10%;
+      }
+      
+      .me{color:white;
+      font-size: 80px;
+    position: absolute; top:30%;
+      margin-left: 5px;
+      
+      }
+      .anand{color:red;
+      font-size: 80px;
+    position: absolute; top:30%;
+      margin-left: 250px;}
+      
+      .png{position: absolute;left:90%;}
+      .intro{color:white;
+    font-size:50px;
+        position: absolute; top:40%;
+ 
+      }
+      
+    
+    
+    
+    
+      
+      
+   /*__________ABOUT ME_________*/
+    
+      
+ .about{color:blue;
+   font-size:100px;
+   position: absolute; top:70%;
+   position: absolute;left:40%;
+   }
+   
+   .aboutimg{position: absolute; top:90%;
+   position: absolute;left:85%;
+border:30px solid yellow;
+border-radius: 50%;
+   }
+   
+   .aboutp{color:white;
+     position: absolute;top:90%;
+     font-size: 70px;
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ /*______________SKILL____________*/
+ 
+ .skill{color:#a35dec;
+ font-size:100px;
+ position: absolute;top:135%;
+position:absolute; left:40%;
+   
+ }
+ 
+ .html{color:#f2b89a;
+ font-size: 70px;
+ position: absolute;top:160%;
+   margin:40px;
+ }
+ 
+ 
+ 
+ .container{background-color:grey; 
+ width:140%;
+   position: absolute;top:180%;
+ border-radius: 50px;
+margin-left: 30px;
+height:100px;
+  }
+  
+  
+ .color{background-color:#34de5c ;
+ width:75%;
+   font-size: 50px;
+border-radius: 50px;
+margin:20px;
+text-align:right;}
+ 
+ 
+ 
+  .css{color:#f2b89a;
+ font-size: 70px;
+ position: absolute;top:200%;
+   margin:40px;
+ }
+ 
+ .container2{background-color: grey;
+ width:140%;
+ position: absolute;top:220%;
+border-radius:50px; 
+   margin-left:30px;
+ }
+.color2{background-color:#34de5c;
+width: 55%;
+font-size: 50px;
+border-radius: 50px;
+margin:20px;
+text-align:right;}
+
+
+.js{color:#f2b89a;
+ font-size: 70px;
+ position: absolute;top:240%;
+   margin:40px;}
+   
+   .container3{background-color: grey;
+ width:140%;
+ position: absolute;top:260%;
+border-radius:50px; 
+   margin-left:30px;
+ }
+   
+   
+   
+ .color3{background-color:#34de5c;
+width: 30%;
+font-size: 50px;
+border-radius: 50px;
+margin:20px;
+text-align: right;
+   
+ }
+ 
+ 
+ 
+ /*___________CERTIFICATE________*/
+ 
+ 
+ 
+ 
+.certificate{color:#430ebe;
+  font-size: 100px;
+  position: absolute;top:290%;
+  position:absolute ; left:40%;
+}
+
+.htmlcertificate{
+  position: absolute; top:350%;
+position: absolute;left:40%;
+  border-radius: 50px;
+  border:15px solid #1dec76;
+width:200px;
+height:700px;
+
+  
+}
+
+.htmlheading{position: absolute; top: 330%;
+position: absolute;left:10%;
+color:yellow;
+  font-size: 70px;
+
+}
+
+.htmlcertificate:hover{  width:1100px;
+  height:700px;
+  position: absolute;left:10%;
+  transition-duration: 2s;
+  transition-timing-function:ease-in;
+  transition-timing-function:ease-in-out;
+}
+
+
+
+.cssheading{position: absolute;top: 400%;
+position: absolute;left:10%;
+color:yellow;
+  font-size: 70px;
+
+}
+.csscertificate{position: absolute;top:420%;
+position: absolute;left:40%;
+  border-radius: 50px;
+  border:15px solid #1dec76;
+width:200px;
+height:700px;}
+
+
+
+.csscertificate:hover{width:1100px;
+  height:700px;
+  position: absolute;left:10%;
+  
+  transition-duration: 2s;
+  transition-timing-function:ease-in-out;}
+  
+  .jsheading{position: absolute;top: 470%;
+position: absolute;left:10%;
+color:yellow;
+  font-size: 70px;}
+  
+  
+  .jscertificate{position: absolute;top:490%;
+position: absolute;left:40%;
+  border-radius: 50px;
+  border:15px solid #1dec76;
+width:200px;
+height:700px;}
+
+
+
+.jscertificate:hover{width:1100px;
+  height:700px;
+  position: absolute;left:10%;
+  
+  transition-duration: 2s;
+  transition-timing-function:ease-in-out;}
+  
+ 
+ 
+ 
+ 
+ /*__________SOCIAL______________*/
+ 
+ 
+  
+  
+  
+  .linksheading{position: absolute;top: 540%;
+position: absolute;left:35%;
+color:#92e8f6;
+  font-size: 100px;
+    position: absolute;left: 20%;
+  }
+  
+  
+  .instalogo{position: absolute;
+  top:560%; left:10%; width:1000px;height:900px;
+     }
+     
+     
+     .githublogo{position: absolute;top:620%; left:40%; width:600px;height:500px;
+    border-radius: 45%;
+     }
+     
+     
+   /*_______ALL HOVER__________*/
+   
+   
+   
+   a{text-decoration: none;
+   color:orange;}
+   a:hover{background-color:white;
+   transition-delay: 1s;
+   transition-duration: 1s;
+   transition-timing-function: ease-in-out;
+    color:#6fe048;
+  border-radius:40px;
+  
+   }
+   
+   
